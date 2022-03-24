@@ -21,6 +21,6 @@
 <div> 
   <a href="https://www.linkedin.com/in/ana-alice-hoffmann-1471aa231/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/alicehoff/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/alicehoff/alicehoff/blob/output/github-contribution-grid-snake.svg)
  
 </div>

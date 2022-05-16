@@ -1,8 +1,8 @@
 ## Olá! Meu nome é Ana e estou estudando programação 👋
 
-- 🔭 Atualmente trabalho na área de eletrotécnica, curso que fiz integrado ao Ensino Médio
-- 🌱 Estou estudando algumas linguagens de programação e pretendo começar a estudar desenvolvimento de software
-- 🤔 Procuro conselhos de pessoas que tenham dicas para trilhar esse caminho e migrar para a área de tecnologia
+- ⚡ Atualmente trabalho na área de eletrotécnica, curso que fiz integrado ao Ensino Médio
+- 💻 Estou estudando algumas linguagens de programação e pretendo começar a estudar desenvolvimento de software
+- 💡 Procuro conselhos de pessoas que tenham dicas para trilhar esse caminho e migrar para a área de tecnologia
 ##
 
  <div>

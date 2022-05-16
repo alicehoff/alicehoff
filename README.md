@@ -7,6 +7,8 @@
 
  <div>
  Onde me encontrar:
+  <img align="right" alt="Alice-pic" height="124" src="https://media.discordapp.net/attachments/956341767769309248/962163004554772560/Webp.net-gifmaker2.gif?width=382&height=382">
+ <br>
  <br>
  <br>
  <a href="https://www.linkedin.com/in/ana-alice-hoffmann-1471aa231/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -25,7 +27,6 @@
   <img align="center" alt="Alice-Html" height="28" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="Alice-CSS" height="28" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">  
   <img align="center" alt="Alice-C++" height="28" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img align="right" alt="Alice-pic" height="124" src="https://media.discordapp.net/attachments/956341767769309248/962163004554772560/Webp.net-gifmaker2.gif?width=382&height=382">
 </div>
   
   ##
